@@ -1,8 +1,7 @@
 fastapi
 uvicorn
 sqlalchemy
-asyncpg
-databases
+sqlite
 pydantic
-aiosqlite
-
+passlib[bcrypt]
+python-jose
